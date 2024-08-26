@@ -1,0 +1,23 @@
+<!-- i will express myswelf here for anyone to input data as they dim fit -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nsisong - Healthcare Data Encryption Tool</title>
+</head>
+<body>
+    <h1>Encrypt Healthcare Data</h1>
+    <form method="post">
+        <textarea name="data" placeholder="Enter healthcare data" required></textarea>
+        <input type="text" name="key" placeholder="Enter encryption key (for AES)" />
+        <label>
+            <input type="radio" name="method" value="aes" checked /> AES
+        </label>
+        <label>
+            <input type="radio" name="method" value="rsa" /> RSA
+        </label>
+        <button type="submit">Encrypt</button>
+    </form>
+</body>
+</html>
