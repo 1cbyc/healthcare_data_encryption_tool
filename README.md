@@ -12,3 +12,6 @@ in otherwords, this tool encrypts healthcare data to protect patient information
 1. **Just install the dependencies i added**: `pip install -r requirements.txt`
 2. **then, run the py app**: `python3 run.py`
 3. **you can view the web ui** at `http://localhost:5666` i usually reallocate ports for specific projects tho, yours might be `5000`
+
+## Speaking of Encryption Algorithms
+
