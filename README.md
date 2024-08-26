@@ -15,4 +15,8 @@ in otherwords, this tool encrypts healthcare data to protect patient information
 
 ## Speaking of Encryption Algorithms
 
-- **AES**: symmetric encryption. it requires a key for both encryption and decryption.
+- **AES**: symmetric encryption. it requires a key for both encryption and decryption. more like one way thang!
+- **RSA**: asymmetric encryption. just uses a pair of keys (like public and private key) for encryption and decryption. so, it is a two way thang!
+
+
+
