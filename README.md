@@ -13,10 +13,10 @@ in otherwords, this tool encrypts healthcare data to protect patient information
 2. **then, run the py app**: `python3 run.py`
 3. **you can view the web ui** at `http://localhost:5666` i usually reallocate ports for specific projects tho, yours might be `5000`
 
-## Speaking of Encryption Algorithms
+### Speaking of Encryption Algorithms
 
 - **AES**: symmetric encryption. it requires a key for both encryption and decryption. more like one way thang!
 - **RSA**: asymmetric encryption. just uses a pair of keys (like public and private key) for encryption and decryption. so, it is a two way thang!
 
-
+### Now Let's use it
 
