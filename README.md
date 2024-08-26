@@ -7,5 +7,6 @@ And I would get a way, maybe a working user interface for users to input data an
 
 in otherwords, this tool encrypts healthcare data to protect patient information using AES or RSA encryption algorithms.
 
-## Since it is open source, let me show you how to get it running:
+### Since it is open source, let me show you how to get it running:
 
+1. **Just install the dependencies i added**: `pip install -r requirements.txt`
