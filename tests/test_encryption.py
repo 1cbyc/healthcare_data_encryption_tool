@@ -1,4 +1,4 @@
-# to test the encryption module i designed
+# to test the encryption functions i designed
 import unittest
 from app.encryption import encrypt_aes, encrypt_rsa, generate_rsa_keypair
 
