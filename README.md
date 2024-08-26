@@ -19,4 +19,5 @@ in otherwords, this tool encrypts healthcare data to protect patient information
 - **RSA**: asymmetric encryption. just uses a pair of keys (like public and private key) for encryption and decryption. so, it is a two way thang!
 
 ### Now Let's use it
-- enter healthcare data and an encryption key in the web form.
+- enter healthcare data and an encryption key in the web form i designed.
+- then, select the encryption method and click "Encrypt" button to get the encrypted output. haha!
