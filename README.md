@@ -10,3 +10,4 @@ in otherwords, this tool encrypts healthcare data to protect patient information
 ### Since it is open source, let me show you how to get it running:
 
 1. **Just install the dependencies i added**: `pip install -r requirements.txt`
+2. **then, run the py app**: `python3 run.py`
