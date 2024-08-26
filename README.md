@@ -22,4 +22,6 @@ in otherwords, this tool encrypts healthcare data to protect patient information
 - enter healthcare data and an encryption key in the web form i designed.
 - then, select the encryption method and click "Encrypt" button to get the encrypted output. haha!
 
-## In the future...
+## In the future, I will...
+
+- add a decryption functionality.
