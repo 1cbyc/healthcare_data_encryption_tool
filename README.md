@@ -25,3 +25,4 @@ in otherwords, this tool encrypts healthcare data to protect patient information
 ## In the future, I will...
 
 - add a decryption functionality.
+- implement an additional encryption algorithm (or more).
