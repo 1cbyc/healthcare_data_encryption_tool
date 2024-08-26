@@ -1,0 +1,18 @@
+healthcare_data_encryption_tool/
+├── app/
+│   ├── __init__.py
+│   ├── encryption.py
+│   ├── routes.py
+│   └── templates/
+│       ├── index.html
+│       └── result.html
+├── static/
+│   ├── css/
+│   └── js/
+├── tests/
+│   ├── test_encryption.py
+│   └── test_routes.py
+├── venv/
+├── requirements.txt
+├── README.md
+└── run.py
