@@ -15,3 +15,4 @@ in otherwords, this tool encrypts healthcare data to protect patient information
 
 ## Speaking of Encryption Algorithms
 
+- **AES**: symmetric encryption. it requires a key for both encryption and decryption.
